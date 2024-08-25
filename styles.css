@@ -12,7 +12,7 @@
 
 .container1{ 
     /* This is the first flex container for header logo section */
-    border: 2px solid red;
+    /* border: 2px solid red; */
     display: flex;
     justify-content: flex-end;
     width: 70%;
@@ -39,7 +39,7 @@
 
 .description{
     /* this is the description div that contains the header, para and button */
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: 35%;
     height: 300px;
     margin-left: 200px;
@@ -51,7 +51,7 @@
 
 .image-holder{
     /* div that contains the image */
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: 35%;
     height: 300px;
     display: inline-block;
@@ -89,7 +89,7 @@ button{
 
 .text-box{
     width: 50%;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     text-align: center;
     margin-left: 350px;
     margin-top: 50px;
@@ -104,7 +104,7 @@ button{
     display: flex;
     justify-content: space-evenly;
     width: 70%;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     height: 280px;
     margin: 40px 200px 50px;
     gap: 45px;      
@@ -114,7 +114,7 @@ button{
     /* this is a div as a flex item */
     flex: 1;
     text-align: center;
-    border: 2px solid red;  
+    /* border: 2px solid red;   */
     font-size: 16px;
     font-family: "Gill Sans Extrabold", sans-serif;
 }
@@ -137,7 +137,7 @@ height: 70%;
 }
 
 .testimonial{
-border: 2px solid red;
+/* border: 2px solid red; */
 width: 70%;
 height: 120px;
 margin-left: 200px;
@@ -149,7 +149,7 @@ padding-top: 120px;
 
 .author{
 
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: 25%;
     margin-left: 58%;
     font-size: 28px;
@@ -158,7 +158,7 @@ padding-top: 120px;
 
 .thirdBackground{
 
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: 70%;
     margin: 100px 200px 50px;
     border-radius: 10px;
@@ -167,7 +167,7 @@ padding-top: 120px;
 }
 
 .advertisement{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     display: inline-block;
     color: #f9faf8;
     margin: 35px 120px;
