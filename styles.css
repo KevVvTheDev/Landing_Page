@@ -155,3 +155,32 @@ padding-top: 120px;
     font-size: 28px;
     font-weight: 600;
 }
+
+.thirdBackground{
+
+    border: 2px solid red;
+    width: 70%;
+    margin: 100px 200px 50px;
+    border-radius: 10px;
+    height: 120px;
+    background-color: #3882f6;
+}
+
+.advertisement{
+    border: 2px solid red;
+    display: inline-block;
+    color: #f9faf8;
+    margin: 35px 120px;
+    vertical-align: middle;
+    text-align: left;
+}
+
+.secondButton{
+    border: 2px solid white;
+}
+
+
+.thirdBackground .advertisement p {
+    font-size: 20px;
+}
+
